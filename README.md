@@ -7,9 +7,9 @@ Code X team stuff
 This is a simple website created to learn GitHub Pages, HTML, CSS, and collaboration using GitHub.
 
 ## Pages
-**bold** - `index.html`: Home page with links to other pages
-- `about.html`: About the creator
-- `contact.html`: Contact information
+*** - `index.html`: Home page with links to other pages***
+**- `about.html`: About the creator**
+*- `contact.html`: Contact information*
 
 ## Features
 - Custom CSS styling
